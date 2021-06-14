@@ -35,3 +35,6 @@ Req 4 : İş verenler listelenebilmelidir. (Sadece tüm liste)
 Req 5 : İş arayanlar listelenebilmelidir. (Sadece tüm liste)
 
 Req 6 : İş pozisyonları listelenebilmelidir. (Sadece tüm liste)
+
+![image](https://user-images.githubusercontent.com/64561478/121898777-6adc2700-cd2c-11eb-978e-58e4f748953d.png)
+
